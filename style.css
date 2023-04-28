@@ -3,7 +3,7 @@
  padding: 24px 0;
 }
 .cabecalho {
-background-color: #383D58;
+background-color: black;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -22,7 +22,7 @@ padding: 24px 0;
    width: 25%;
 }
 .escola {
-   background-image: linear-gradient(#383d58,#00c0eb);
+   background-image: linear-gradient(black, blue);
    color: white;
    display: flex;
    justify-content: center;
@@ -42,6 +42,7 @@ body{
    text-align: center;
 }
 .estudante-titulo{
+   color: black;
    text-align: center;
    padding: 50px 0;
 }
